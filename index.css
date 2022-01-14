@@ -1,0 +1,29 @@
+body{
+    
+    margin-left: 18em;
+    margin-right: 18em;
+}
+
+.name{
+      
+    margin-top: 2em;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
+
+table{
+    width: 210mm;
+    align-self: center;
+}
+
+.tab{
+    tab-size: 4;
+}
